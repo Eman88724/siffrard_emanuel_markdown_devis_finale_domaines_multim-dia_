@@ -11,7 +11,7 @@ Améliore ton quotidien en beauté un geste=un meilleur univers!
 
 # Titre de l'application
 
-#Ton monde interieur
+Ton monde interieur
 
 # Analyse des besoins
 
@@ -21,8 +21,8 @@ Elle ne demande pas des compétences techniques et physiques
 
 # L'opportunité de ce projet
 
-Ce projet a pour but de montrer qu'on peut mélanger technologie et santé.
-Le but principal, est de s'amuser et que l'utilisateur puisse se donner des objectifs.
+Ce projet a pour but de montrer qu'on peut mélanger technologie et santé
+Le but principal, est de s'amuser et que l'utilisateur puisse se donner des objectifs
 
 # Présentation du concept
 
@@ -34,8 +34,8 @@ Thème disponibles: Jardin, désert, foret et montagne,monde sous l'eau monde fa
 
 
 # Les objectif quotidiens
-L'utilisateur aura la chance de compléter 3à5 objectifs par jour.
-Les objectifs chaque à chaque jour. 
+L'utilisateur aura la chance de compléter 3à5 objectifs par jour
+Les objectifs chaque à chaque jour 
 Si l'utilisateur ne complète pas les objectifs il n'y aura pas de conséquences
 
 Liste des objectif:
@@ -45,16 +45,16 @@ Liste des objectif:
 - Manger un fruit ou légume 
 
 
-#L'évolution de ton univers:
+# L'évolution de ton univers:
 
-L'utilisateur voir son univers évolué selon sa progression.
-Plus que l'utilisateur est actif plus son univers va être beau et en santé.
-L'application à pour but de faire des beaux messages d'encouragement.
+L'utilisateur voir son univers évolué selon sa progression
+Plus que l'utilisateur est actif plus son univers va être beau et en santé
+L'application à pour but de faire des beaux messages d'encouragement
 
 # Système de progression 
 
 Plus que l'utilisateur fait ses taches plus il gagne d'xp 
-Bonus d'xp pour se connecter plusieurs jour d'affilé.
+Bonus d'xp pour se connecter plusieurs jour d'affilé
 
 - 2 jours d'affilé= +15% d'xp
 - 5 jours d'affilé= +30% d'xp
@@ -64,10 +64,10 @@ Ce bonus tient compte en plus de l'xp de base que l'utilisateur recoit.
 
 
 # Système de dimensions émotionnelle
-- L'utilisateur peut monter son humeur.
-- Les influences de l'utilisateur ont un impact sur de son univers.
-- Soit la météo, l'ambiance et les couleurs.
-- L'application à pour but de favorisé la connexion en soi et non la performance.
+- L'utilisateur peut monter son humeur
+- Les influences de l'utilisateur ont un impact sur de son univers
+- Soit la météo, l'ambiance et les couleurs
+- L'application à pour but de favorisé la connexion en soi et non la performance
 
  # Maquette
  ![siffrard_emanuel_maquette_devis_final copie](https://github.com/user-attachments/assets/ac246bd6-37c9-4716-94ba-b2ab519a094d)
