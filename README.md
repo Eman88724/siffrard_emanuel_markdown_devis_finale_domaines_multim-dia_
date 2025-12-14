@@ -69,9 +69,11 @@
 - L'application à pour but de favorisé la connexion en soi et non la performance.
  ##
  # Maquette
- 
- # Choix technologique![siffrard_emanuel_maquette_devis_final copie](https://github.com/user-attachments/assets/ac246bd6-37c9-4716-94ba-b2ab519a094d)
-s 
+ ![siffrard_emanuel_maquette_devis_final copie](https://github.com/user-attachments/assets/ac246bd6-37c9-4716-94ba-b2ab519a094d)
+ ##
+
+ # Choix technologique
+
  - Plateforme de développement
  - Plateforme compatible pour iOS et Androi
  - Mise à jour rapide
