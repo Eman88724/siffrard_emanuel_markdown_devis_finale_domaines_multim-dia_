@@ -1,9 +1,9 @@
 
 #Épreuve synthèse 
 -
-#Cours:Domaines Multimédia
-#Session:Autonme 2025
-#Fait par:Emanuel Siffrard
+Cours:Domaines Multimédia
+Session:Autonme 2025
+Fait par:Emanuel Siffrard
 -
 # Phrase choc
 
@@ -16,28 +16,29 @@
 # Analyse des besoins
 
 #Public ciblé: 16ans-66ans et plus
-#Importance de ce public: l'application ne met aucune pression
-#Elle ne demande pas des compétences techniques et physiques 
+Importance de ce public: l'application ne met aucune pression
+Elle ne demande pas des compétences techniques et physiques 
 ##
 # L'opportunité de ce projet
 
-#Ce projet a pour but de montrer qu'on peut mélanger technologie et santé.
-#Le but principal, est de s'amuser et que l'utilisateur puisse se donner des objectifs.
+Ce projet a pour but de montrer qu'on peut mélanger technologie et santé.
+Le but principal, est de s'amuser et que l'utilisateur puisse se donner des objectifs.
 ##
 # Présentation du concept
 
-#Thème de base(choix par l'utilisateur à la suite d'un petit questionnaire)
-#Thème disponibles: Jardin, désert, foret et montagne 
+Thème de base(choix par l'utilisateur à la suite d'un petit questionnaire)
+Thème disponibles: Jardin, désert, foret et montagne,monde sous l'eau monde fantastique(thème de sorcier)
 ##
 # Moodboard
 ![siffrard_emanuel_moodboard_devis_final copie](https://github.com/user-attachments/assets/45f47c42-7825-4799-880b-d81aaff205b7)
 
 ##
 # Les objectif quotidiens
-#L'utilisateur aura la chance de compléter 3à5 objectifs par jour.
-#Les objectifs chaque à chaque jour. 
-#Si l'utilisateur ne complète pas les objectifs il n'y aura pas de conséquences
-#Liste des objectif:
+L'utilisateur aura la chance de compléter 3à5 objectifs par jour.
+Les objectifs chaque à chaque jour. 
+Si l'utilisateur ne complète pas les objectifs il n'y aura pas de conséquences
+
+Liste des objectif:
 
 - Boire de l'eau
 -  Lire 10 minutes
@@ -45,20 +46,20 @@
 ##
 #L'évolution de ton univers
 
-#L'utilisateur voir son univers évolué selon sa progression.
-#Plus que l'utilisateur est actif plus son univers va être beau et en santé.
-#L'application à pour but de faire des beaux messages d'encouragement.
+L'utilisateur voir son univers évolué selon sa progression.
+Plus que l'utilisateur est actif plus son univers va être beau et en santé.
+L'application à pour but de faire des beaux messages d'encouragement.
 ##
 #Système de progression 
 
-#Plus que l'utilisateur fait ses taches plus il gagne d'xp 
-#Bonus d'xp pour se connecter plusieurs jour d'affilé.
+Plus que l'utilisateur fait ses taches plus il gagne d'xp 
+Bonus d'xp pour se connecter plusieurs jour d'affilé.
 
 - 2 jours d'affilé= +15% d'xp
 - 5 jours d'affilé= +30% d'xp
 - 10 jours d'affilé= +45%xp
 
-#Ce bonus tient compte en plus de l'xp de base que l'utilisateur recoit.
+Ce bonus tient compte en plus de l'xp de base que l'utilisateur recoit.
 ##
 
 # Système de dimensions émotionnelle
