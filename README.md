@@ -1,4 +1,4 @@
-# siffrard_emanuel_markdown_devis_finale_domaines_multim-dia_[siffrard_emanuel_devis_final.md](https://github.com/user-attachments/files/24146563/siffrard_emanuel_devis_final.md)
+# siffrard_emanuel_markdown_devis_finale_domaines_multimédia_
 ##
 #Épreuve synthèse 
 -
