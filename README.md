@@ -8,11 +8,11 @@ Fait par:Emanuel Siffrard
 # Phrase choc
 
 Améliore ton quotidien en beauté un geste=un meilleur univers!
-##
+
 # Titre de l'application
 
 #Ton monde interieur
-##
+
 # Analyse des besoins
 
 #Public ciblé: 16ans-66ans et plus
@@ -32,7 +32,7 @@ Thème disponibles: Jardin, désert, foret et montagne,monde sous l'eau monde fa
 # Moodboard
 ![siffrard_emanuel_moodboard_devis_final copie](https://github.com/user-attachments/assets/45f47c42-7825-4799-880b-d81aaff205b7)
 
-##
+
 # Les objectif quotidiens
 L'utilisateur aura la chance de compléter 3à5 objectifs par jour.
 Les objectifs chaque à chaque jour. 
@@ -61,7 +61,7 @@ Bonus d'xp pour se connecter plusieurs jour d'affilé.
 - 10 jours d'affilé= +45%xp
 
 Ce bonus tient compte en plus de l'xp de base que l'utilisateur recoit.
-##
+
 
 # Système de dimensions émotionnelle
 - L'utilisateur peut monter son humeur.
@@ -71,7 +71,7 @@ Ce bonus tient compte en plus de l'xp de base que l'utilisateur recoit.
 
  # Maquette
  ![siffrard_emanuel_maquette_devis_final copie](https://github.com/user-attachments/assets/ac246bd6-37c9-4716-94ba-b2ab519a094d)
- ##
+
 
  # Choix technologique
 
