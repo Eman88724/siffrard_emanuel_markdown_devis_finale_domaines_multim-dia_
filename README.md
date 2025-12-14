@@ -21,7 +21,7 @@
 #Elle ne demande pas des compétences techniques et physiques 
 ##
 # L'opportunité de ce projet
--
+
 #Ce projet a pour but de montrer qu'on peut mélanger technologie et santé.
 #Le but principal, est de s'amuser et que l'utilisateur puisse se donner des objectifs.
 ##
